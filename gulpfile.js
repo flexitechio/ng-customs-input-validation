@@ -17,7 +17,7 @@ var files = [
   'src/lib/engine.js',
   'src/util-validator.js',
   'src/services/validate.js',
-  'src/directive/validate.js',
+  'src/directives/validate.js',
 ];
 
 var lintFiles = files;
