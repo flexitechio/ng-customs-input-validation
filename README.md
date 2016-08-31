@@ -13,7 +13,7 @@ You can easily add a script link by install using bower install.
 
 ### Bower
 
-`bower install https://github.com/flexitechio/ng-customs-input-validation#master`
+`bower install https://github.com/flexitechio/ng-customs-input-validation.git#master`
 
 ## How to use
 
