@@ -1,0 +1,33 @@
+{
+  "name": "ng-customs-input-validation",
+  "version": "1.0.0",
+  "description": "util-validator.js",
+  "main": "dist/util-validator.js",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.0",
+    "gulp-eslint": "^2.0.0",
+    "gulp-insert": "^0.5.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-uglify": "^1.5.3",
+    "gulp-wrap": "^0.13.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/flexitechio/ng-customs-input-validation.git"
+  },
+  "keywords": [
+    "validation",
+    "angular"
+  ],
+  "author": "Promsopheak Nuon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/flexitechio/ng-customs-input-validation/issues"
+  },
+  "homepage": "https://github.com/flexitechio/ng-customs-input-validation"
+}

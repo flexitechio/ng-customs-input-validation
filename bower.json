@@ -1,0 +1,28 @@
+{
+  "name": "ng-customs-input-validation",
+  "homepage": "https://github.com/flexitechio/ng-customs-input-validation",
+  "authors": [
+    "Promsopheak <npsopheak@gmail.com>"
+  ],
+  "description": "Angular module custom input validation",
+  "main": "dist/util-validator.js",
+  "moduleType": [
+    "amd"
+  ],
+  "keywords": [
+    "validation",
+    "angularjs"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.5.8",
+    "underscore": "^1.8.3"
+  }
+}

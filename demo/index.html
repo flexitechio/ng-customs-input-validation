@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html ng-app="utilValidatorDemo">
+<head>
+	<title>Test Validation Module</title>
+
+	<script type="text/javascript" src="../bower_components/angular/angular.js"></script>
+	<script type="text/javascript" src="../dist/util-validator.js"></script>
+	<script type="text/javascript">
+		//app.js
+		var deps = ['util-flexitech.validate'];
+		var app = angular.module('utilValidatorDemo', deps);
+
+		app.run(['$rootScope', function ($rootScope){
+			console.log('The app is actually running!');
+		}]);
+	</script>
+</head>
+
+<body>
+	<h1>Check in the console for status!</h1>
+</body>
+
+</html>

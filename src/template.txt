@@ -1,0 +1,17 @@
+/*! UtilValidate v<%= data.version %> | https://npmcdn.com/utilvalidate@<%= data.version %>/LICENSE.txt */
+var UtilValidateExports = {};
+(function(exports) {
+    <%= data.contents %>
+	module.version = '<%= data.version %>';
+	exports.UtilValidate = module;
+})(UtilValidateExports);
+
+(function (global, factory) {
+  if (typeof exports === 'object' && typeof module !== 'undefined') {
+    module.exports = factory;
+  } else if (typeof define === 'function' && define.amd) {
+    define(factory);
+  } else {
+    global.UtilValidate = factory;
+  }
+}(this, UtilValidateExports.UtilValidate));
