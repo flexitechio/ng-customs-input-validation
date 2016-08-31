@@ -7,8 +7,6 @@ An angular module developed the Flexitech to validate the input, select box, and
 - Initial source build
 - Update readme
 
-## What is Slash.Us?
-
 ##Installation
 
 You can easily add a script link by install using bower install.
