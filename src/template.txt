@@ -1,4 +1,4 @@
-/*! UtilValidate v<%= data.version %> | https://npmcdn.com/utilvalidate@<%= data.version %>/LICENSE.txt */
+/*! UtilValidate v<%= data.version %> | https://unpkg.com/utilvalidate@<%= data.version %>/LICENSE.txt */
 var UtilValidateExports = {};
 (function(exports) {
     <%= data.contents %>

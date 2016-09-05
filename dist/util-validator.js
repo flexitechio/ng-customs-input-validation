@@ -1,4 +1,4 @@
-/*! UtilValidate v1.0.0 | https://npmcdn.com/utilvalidate@1.0.0/LICENSE.txt */
+/*! UtilValidate v1.0.0 | https://unpkg.com/utilvalidate@1.0.0/LICENSE.txt */
 var UtilValidateExports = {};
 (function(exports) {
     String.prototype.trim = function() {
